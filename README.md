@@ -1,3 +1,2 @@
-Mes dépôts persos:
 
-* https://soucy.cc/git
+🫒 https://soucy.cc/git
