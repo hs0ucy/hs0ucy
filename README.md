@@ -1,3 +1,3 @@
 
-🫒 https://soucy.cc/git
-🧊 https://codeberg.org/hs0ucy
+* 🫒 https://soucy.cc/git
+* 🧊 https://codeberg.org/hs0ucy
